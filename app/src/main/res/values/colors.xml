@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorSilverWhite">#c0c0c0</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="transWhite">#FFFFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="grayBlack">#1C1C1C</color>
+    <color name="colorOften">#20D8E6</color>
+    <!--透明-->
+    <color name="transparent">#01000000</color>
+</resources>

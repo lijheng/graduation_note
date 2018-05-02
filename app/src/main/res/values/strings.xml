@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">graduation_note</string>
+
+    <string name="toolbar_title">便签</string>
+    <string name="grid">grid</string>
+    <string name="list">list</string>
+    <string name="search">search</string>
+    <string name="back">返回</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="finish">完成</string>
+    <!--ImageButton ContentDescription-->
+    <string name="speech_icon">语音输入</string>
+    <string name="return_icon">撤销</string>
+    <string name="redo_icon">重做</string>
+    <string name="image_icon">图片插入</string>
+</resources>
